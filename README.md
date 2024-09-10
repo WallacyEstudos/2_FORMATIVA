@@ -157,37 +157,16 @@
 
 ### **Diagramas**
 
-1. **Diagrama de Classe:**
-   - **Usuário:**
-     - id (String)
-     - nome (String)
-     - email (String)
-     - senha (String)
-   - **Evento:**
-     - id (String)
-     - título (String)
-     - descrição (String)
-     - data (Date)
-     - localização (String)
-   - **Inscrição:**
-     - id (String)
-     - usuárioId (String)
-     - eventoId (String)
+# Sistema de Gestão de Eventos
 
-2. **Diagrama de Caso de Uso:**
-   - **Usuário:**
-     - Registrar
-     - Login
-     - Criar Evento
-     - Visualizar Eventos
-     - Inscrever-se em Evento
-     - Ver Eventos Inscritos (apenas autenticado)
-   - **Administrador:**
-     - Gerenciar Eventos
-     - Visualizar Inscrições
+## Diagrama de Caso de Uso
 
-3. **Diagrama de Fluxo:**
-   - **Fluxo de Inscrição:**
-     - Usuário (autenticado ou não) seleciona evento → Usuário se inscreve → Confirmação de inscrição → Evento listado no perfil do usuário (apenas se autenticado).
+![Diagrama de Caso de Uso](docs/diagrama-caso-uso.png)
 
----
+## Diagrama de Classe
+
+![Diagrama de Classe](docs/diagrama-classe.png)
+
+## Diagrama de Fluxo
+
+![Diagrama de Fluxo](docs/diagrama-fluxo.png)
