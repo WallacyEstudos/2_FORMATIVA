@@ -161,12 +161,12 @@
 
 ## Diagrama de Caso de Uso
 
-![Diagrama de Caso de Uso](docs/diagrama-caso-uso.png)
+![Diagrama de Caso de Uso](diagramas/diagrama_de_Uso.png)
 
 ## Diagrama de Classe
 
-![Diagrama de Classe](docs/diagrama-classe.png)
+![Diagrama de Classe](diagramas/diagrama_de_Classe.png)
 
 ## Diagrama de Fluxo
 
-![Diagrama de Fluxo](docs/diagrama-fluxo.png)
+![Diagrama de Fluxo](diagramas/diagrama_de_Fluxo.png)
