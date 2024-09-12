@@ -165,8 +165,8 @@
 
 ## Diagrama de Classe
 
-![Diagrama de Classe](diagramas/diagrama_Classe.png)
+![Diagrama de Classe](diagramas/diagrama_de_Classe.png)
 
 ## Diagrama de Fluxo
 
-![Diagrama de Fluxo](diagramas/diagrama_Fluxo.png)
+![Diagrama de Fluxo](diagramas/diagrama_de_Fluxo.png)
